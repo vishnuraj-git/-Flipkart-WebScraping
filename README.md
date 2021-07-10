@@ -15,7 +15,7 @@ Flipkart is an Indian e-commerce company, headquartered in Bangalore, Karnataka,
 Python3
 
 # Libraries Imported
- requests
- BeautifulSoup
- time
- pandas
+. requests
+. BeautifulSoup
+. time
+. pandas
